@@ -78,7 +78,7 @@
           <li><a href="#services">Products</a></li>
           <li><a href="#portfolio">Services</a></li>
 
-          <li class="menu-has-children"><a href="">Store</a>
+          <li class="menu-has-children"><a href="Store.aspx">Store</a>
             <ul>
               <li><a href="#">Barcode Printers</a></li>
               <li><a href="#">Barcode Scanners</a></li>
