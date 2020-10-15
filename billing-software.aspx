@@ -163,7 +163,7 @@
                 <%--<button type="submit">Submit Enquiry</button>--%>
                 
                     <asp:Button ID="CmdSubmit" runat="server" Text="Submit Enquiry" 
-                      onclick="CmdSubmit_Click"></asp:Button>
+                      ></asp:Button>
                
               </div>
  </form>
