@@ -80,19 +80,19 @@
 
           <li class="menu-has-children"><a href="Store.aspx">Store</a>
             <ul>
-              <li><a href="#">Barcode Printers</a></li>
-              <li><a href="#">Barcode Scanners</a></li>
-              <li><a href="#">Barcode Labels</a></li>
-              <li><a href="#">Thermal Printer</a></li>
-              <li><a href="#">Thermal Paper Rolls</a></li>
-              <li><a href="#">Biometric Punching Machine</a></li>
-              <li><a href="#">Face Detection Machine</a></li>
-              <li><a href="#">Biomatric Access Control</a></li>
-              <li><a href="#">RFID Tags & Strips</a></li>
-              <li><a href="#">Students & Employees ID</a></li>
-              <li><a href="#">Billing Machine</a></li>
-              <li><a href="#">Boom Barrier</a></li>
-              <li><a href="#">ID Card Printer</a></li>
+              <li><a href="Barcode-Printer.aspx">Barcode Printers</a></li>
+              <li><a href="Barcode-Scanner.aspx">Barcode Scanners</a></li>
+              <li><a href="Barcode-Label.aspx">Barcode Labels</a></li>
+              <li><a href="Thermal-Printer.aspx">Thermal Printer</a></li>
+              <li><a href="Thermal-Paper-Roll.aspx">Thermal Paper Rolls</a></li>
+              <li><a href="Biometric-Punching-Machine.aspx">Biometric Punching Machine</a></li>
+              <li><a href="Face-Detection-Machine.aspx">Face Detection Machine</a></li>
+              <li><a href="Biometric-Access-Control.aspx">Biomatric Access Control</a></li>
+              <li><a href="IDCard.aspx">RFID Card</a></li>
+              <%--<li><a href="">Students & Employees ID</a></li>--%> 
+              <li><a href="Billing-Machine.aspx">Billing Machine</a></li>
+              <li><a href="Boom-Barriar.aspx">Boom Barrier</a></li>
+              <li><a href="ID-Card-Printer.aspx">ID Card Printer</a></li>
             </ul>
           </li>
 
@@ -242,7 +242,7 @@
           <div class="col-md-4 wow fadeInUp">
             <div class="about-col">
               <div class="img">
-                <img src="img/HospitalManagement.jpg" alt="Hospital Management Software In Kerala" class="img-fluid">
+                <img src="img/HospitalManagement.jpg" alt="Hospital Management Software In Kerala" class="img-fluid"/>
                 <div class="icon"><i class="ion-ios-pulse"></i></div>
               </div>
               <h2 class="title">HOSPITAL MANAGEMENT SYSTEM</h2>
@@ -256,7 +256,7 @@
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
             <div class="about-col">
               <div class="img">
-                <img src="img/TravelDesk.jpg" alt="Taxi Operator Software For Collection And Customer Management" class="img-fluid">
+                <img src="img/TravelDesk.jpg" alt="Taxi Operator Software For Collection And Customer Management" class="img-fluid"/>
                 <div class="icon"><i class="ion-model-s"></i></div>
               </div>
               <h2 class="title">TRAVEL DESK AUTOMATION SOFTWARE</h2>
@@ -433,7 +433,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="img/portfolio/emark.jpg" class="img-fluid" alt="e-Mark Classic Sales And Billing Software">
+                <img src="img/portfolio/emark.jpg" class="img-fluid" alt="e-Mark Classic Sales And Billing Software"/>
                 <a href="img/portfolio/emark.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
@@ -448,7 +448,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="img/portfolio/escholar.jpg" class="img-fluid" alt="e-Scholar College Automation Software Package In Kerala">
+                <img src="img/portfolio/escholar.jpg" class="img-fluid" alt="e-Scholar College Automation Software Package In Kerala"/>
                 <a href="img/portfolio/escholar.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
@@ -463,7 +463,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="img/portfolio/smartcare.jpg" class="img-fluid" alt="SmartCARE HMS Hospital Management Software In Kerala">
+                <img src="img/portfolio/smartcare.jpg" class="img-fluid" alt="SmartCARE HMS Hospital Management Software In Kerala"/>
                 <a href="img/portfolio/smartcare.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
@@ -508,7 +508,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="img/portfolio/whitestore.jpg" class="img-fluid" alt="e-Commerce Shopping Cart">
+                <img src="img/portfolio/whitestore.jpg" class="img-fluid" alt="e-Commerce Shopping Cart"/>
                 <a href="img/portfolio/whitestore.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
@@ -523,7 +523,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="img/portfolio/timestamp.jpg" class="img-fluid" alt="Biometric Attendance System using Finger Print, Palm And Face Reader">
+                <img src="img/portfolio/timestamp.jpg" class="img-fluid" alt="Biometric Attendance System using Finger Print, Palm And Face Reader"/>
                 <a href="img/portfolio/timestamp.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 1" title="Preview"><i class="ion ion-eye"></i></a>
                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
@@ -538,7 +538,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="img/portfolio/gdesk.jpg" class="img-fluid" alt="g-Desk Gymnesium Software For Membership Management, Progress Analysis And Fee Collection">
+                <img src="img/portfolio/gdesk.jpg" class="img-fluid" alt="g-Desk Gymnesium Software For Membership Management, Progress Analysis And Fee Collection"/>
                 <a href="img/portfolio/gdesk.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 3" title="Preview"><i class="ion ion-eye"></i></a>
                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
@@ -553,7 +553,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="img/portfolio/smartcms.jpg" class="img-fluid" alt="Content Management System For Dynamic Website">
+                <img src="img/portfolio/smartcms.jpg" class="img-fluid" alt="Content Management System For Dynamic Website"/>
                 <a href="img/portfolio/smartcms.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
               </figure>
@@ -581,19 +581,24 @@
         </header>
 
         <div class="owl-carousel clients-carousel" >
-          <img style="margin-right:10px;" src="img/clients/Assumption_College.png" alt="Assumption College Changanacherry">
-          <img style="margin-right:10px;" src="img/clients/Alphonsa_college.png" alt="Alphonsa College, Pala">
-          <img style="margin-right:10px;" src="img/clients/BPC_College.png" alt="BPC College, Piravom, Ernakulam">
-          <img style="margin-right:10px;" src="img/clients/Brilliant.png" alt="Brilliant Studey Centre, Pala">
-          <img style="margin-right:10px;" src="img/clients/Baselius_College.png" alt="Baselius College, Kottayam">
-          <img style="margin-right:10px;" src="img/clients/KG_College_Pampady.png" alt="KG College, Pampady, Kottayam">
-          <img style="margin-right:10px;" src="img/clients/MGU_Nursing_College.png" alt="Nursing College, MG University, Manimalakkunnu">
-          <img style="margin-right:10px;" src="img/clients/MGU_DPS.png" alt="Pharmacy College, MG University, Puthuppally, Kottayam">
-          <img style="margin-right:10px;" src="img/clients/SD_College_Kanjirappally.png" alt="SD College, Kanjirappally, Kottayam">
-          <img style="margin-right:10px;" src="img/clients/StMarys_College_Manarcadu.png" alt="St.Marys College, Manarcardu, Kottayam">
-          <img style="margin-right:10px;" src="img/clients/SN_College_Kumarakom.png" alt="SN College, Kumarakom, Kottayam">
-          <img style="margin-right:10px;" src="img/clients/Sankara_College_Kalady.png" alt="Sree Sankara College, Kalady, Ernakulam">
-          <img style="margin-right:10px;" src="img/clients/VNS_College_Konni.png" alt="VNS College of Arts And Science, Konni, Pathanamthitta">
+          <img style="margin-right:10px;" src="img/clients/Assumption_College.png" alt="Assumption College Changanacherry"/>
+          <img style="margin-right:10px;" src="img/clients/Alphonsa_college.png" alt="Alphonsa College, Pala"/>
+          <img style="margin-right:10px;" src="img/clients/BPC_College.png" alt="BPC College, Piravom, Ernakulam"/>
+          <img style="margin-right:10px;" src="img/clients/Brilliant.png" alt="Brilliant Studey Centre, Pala"/>
+          <img style="margin-right:10px;" src="img/clients/Baselius_College.png" alt="Baselius College, Kottayam"/>
+          <img style="margin-right:10px;" src="img/clients/KG_College_Pampady.png" alt="KG College, Pampady, Kottayam"/>
+          <img style="margin-right:10px;" src="img/clients/MGU_Nursing_College.png" alt="Nursing College, MG University, Manimalakkunnu"/>
+          <img style="margin-right:10px;" src="img/clients/MGU_DPS.png" alt="Pharmacy College, MG University, Puthuppally, Kottayam"/>
+          <img style="margin-right:10px;" src="img/clients/SD_College_Kanjirappally.png" alt="SD College, Kanjirappally, Kottayam"/>
+          <img style="margin-right:10px;" src="img/clients/StMarys_College_Manarcadu.png" alt="St.Marys College, Manarcardu, Kottayam"/>
+          <img style="margin-right:10px;" src="img/clients/SN_College_Kumarakom.png" alt="SN College, Kumarakom, Kottayam"/>
+          <img style="margin-right:10px;" src="img/clients/Sankara_College_Kalady.png" alt="Sree Sankara College, Kalady, Ernakulam"/>
+          <img style="margin-right:10px;" src="img/clients/VNS_College_Konni.png" alt="VNS College of Arts And Science, Konni, Pathanamthitta"/>
+          <img style="margin-right:10px;" src="img/clients/Bhavapriya.jpg" alt="BavaPriya School of Music and Dance"/>
+          <img style="margin-right:10px;" src="img/clients/Kochintaxi.png" alt="Cochin taxi Rental"/>
+          <img style="margin-right:10px;" src="img/clients/LaggageToLagoon.png" alt="Laggae To Lagoon"/>
+           <img style="margin-right:10px;" src="img/clients/Muncipality.png" alt="Kottayam-Muncipality"/>
+
         </div>
 
       </div>

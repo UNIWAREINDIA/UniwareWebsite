@@ -25,8 +25,8 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  font-size: 40px;
+  font-weight: 300;
+    font-size: 25px;
   color: #ffb956;
   margin: 0 0 20px 0;
   padding: 0;
@@ -630,7 +630,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
   padding: 60px 0 40px 0;
   position: relative;
-  margin-top: 100px;
+ 
 }
 
 #about::before {
