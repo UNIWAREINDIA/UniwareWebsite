@@ -82,7 +82,7 @@
             <ul>
               <li><a href="Barcode-Printer.aspx">Barcode Printers</a></li>
               <li><a href="Barcode-Scanner.aspx">Barcode Scanners</a></li>
-              <li><a href="Barcode-Label.aspx">Barcode Labels</a></li>
+              <li><a href="BarcodeLabel.aspx">Barcode Labels</a></li>
               <li><a href="Thermal-Printer.aspx">Thermal Printer</a></li>
               <li><a href="Thermal-Paper-Roll.aspx">Thermal Paper Rolls</a></li>
               <li><a href="Biometric-Punching-Machine.aspx">Biometric Punching Machine</a></li>
