@@ -82,13 +82,13 @@
             <ul>
               <li><a href="Barcode-Printer.aspx">Barcode Printers</a></li>
               <li><a href="Barcode-Scanner.aspx">Barcode Scanners</a></li>
-              <li><a href="BarcodeLabel.aspx">Barcode Labels</a></li>
+              <li><a href="Barcode-Label.aspx">Barcode Labels</a></li>
               <li><a href="Thermal-Printer.aspx">Thermal Printer</a></li>
               <li><a href="Thermal-Paper-Roll.aspx">Thermal Paper Rolls</a></li>
               <li><a href="Biometric-Punching-Machine.aspx">Biometric Punching Machine</a></li>
               <li><a href="Face-Detection-Machine.aspx">Face Detection Machine</a></li>
               <li><a href="Biometric-Access-Control.aspx">Biomatric Access Control</a></li>
-              <li><a href="IDCard.aspx">RFID Card</a></li>
+              <li><a href="ID-Card.aspx">RFID Card</a></li>
               <%--<li><a href="">Students & Employees ID</a></li>--%> 
               <li><a href="Billing-Machine.aspx">Billing Machine</a></li>
               <li><a href="Boom-Barriar.aspx">Boom Barrier</a></li>
