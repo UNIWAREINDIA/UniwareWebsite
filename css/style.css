@@ -1509,6 +1509,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media only screen and (max-width: 767px) { 
     .whatsapp-mob {display: block;}
      .whatsapp-desk {display: none;}
+     #Enquiry{margin-left: 24px ! important;}
 }
 
 

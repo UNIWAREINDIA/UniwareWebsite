@@ -581,23 +581,23 @@
         </header>
 
         <div class="owl-carousel clients-carousel" >
-          <img style="margin-right:10px;" src="img/clients/Assumption_College.png" alt="Assumption College Changanacherry"/>
-          <img style="margin-right:10px;" src="img/clients/Alphonsa_college.png" alt="Alphonsa College, Pala"/>
-          <img style="margin-right:10px;" src="img/clients/BPC_College.png" alt="BPC College, Piravom, Ernakulam"/>
-          <img style="margin-right:10px;" src="img/clients/Brilliant.png" alt="Brilliant Studey Centre, Pala"/>
-          <img style="margin-right:10px;" src="img/clients/Baselius_College.png" alt="Baselius College, Kottayam"/>
-          <img style="margin-right:10px;" src="img/clients/KG_College_Pampady.png" alt="KG College, Pampady, Kottayam"/>
-          <img style="margin-right:10px;" src="img/clients/MGU_Nursing_College.png" alt="Nursing College, MG University, Manimalakkunnu"/>
-          <img style="margin-right:10px;" src="img/clients/MGU_DPS.png" alt="Pharmacy College, MG University, Puthuppally, Kottayam"/>
-          <img style="margin-right:10px;" src="img/clients/SD_College_Kanjirappally.png" alt="SD College, Kanjirappally, Kottayam"/>
-          <img style="margin-right:10px;" src="img/clients/StMarys_College_Manarcadu.png" alt="St.Marys College, Manarcardu, Kottayam"/>
-          <img style="margin-right:10px;" src="img/clients/SN_College_Kumarakom.png" alt="SN College, Kumarakom, Kottayam"/>
-          <img style="margin-right:10px;" src="img/clients/Sankara_College_Kalady.png" alt="Sree Sankara College, Kalady, Ernakulam"/>
-          <img style="margin-right:10px;" src="img/clients/VNS_College_Konni.png" alt="VNS College of Arts And Science, Konni, Pathanamthitta"/>
-          <img style="margin-right:10px;" src="img/clients/Bhavapriya.jpg" alt="BavaPriya School of Music and Dance"/>
-          <img style="margin-right:10px;" src="img/clients/Kochintaxi.png" alt="Cochin taxi Rental"/>
-          <img style="margin-right:10px;" src="img/clients/LaggageToLagoon.png" alt="Laggae To Lagoon"/>
-           <img style="margin-right:10px;" src="img/clients/Muncipality.png" alt="Kottayam-Muncipality"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Assumption_College.png"  alt="Assumption College Changanacherry"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Alphonsa_college.png" alt="Alphonsa College, Pala"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/BPC_College.png" alt="BPC College, Piravom, Ernakulam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Brilliant.png" alt="Brilliant Studey Centre, Pala"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Baselius_College.png" alt="Baselius College, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/KG_College_Pampady.png" alt="KG College, Pampady, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/MGU_Nursing_College.png" alt="Nursing College, MG University, Manimalakkunnu"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/MGU_DPS.png" alt="Pharmacy College, MG University, Puthuppally, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/SD_College_Kanjirappally.png" alt="SD College, Kanjirappally, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/StMarys_College_Manarcadu.png" alt="St.Marys College, Manarcardu, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/SN_College_Kumarakom.png" alt="SN College, Kumarakom, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Sankara_College_Kalady.png" alt="Sree Sankara College, Kalady, Ernakulam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/VNS_College_Konni.png" alt="VNS College of Arts And Science, Konni, Pathanamthitta"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Bhavapriya.jpg" alt="BavaPriya School of Music and Dance"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Kochintaxi.png" alt="Cochin taxi Rental"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/LaggageToLagoon.png" alt="Laggae To Lagoon"/>
+           <img style="margin-right:10px;width:200px;" src="img/clients/Muncipality.png" alt="Kottayam-Muncipality"/>
 
         </div>
 
@@ -771,4 +771,3 @@
 
 </body>
 </html>
-
