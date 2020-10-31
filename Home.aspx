@@ -77,25 +77,24 @@
           <li><a href="#about">About</a></li>
           <li><a href="#services">Products</a></li>
           <li><a href="#portfolio">Services</a></li>
-
           <li class="menu-has-children"><a href="Store.aspx">Store</a>
             <ul>
-              <li><a href="Barcode-Printer.aspx">Barcode Printers</a></li>
-              <li><a href="Barcode-Scanner.aspx">Barcode Scanners</a></li>
-              <li><a href="Barcode-Label.aspx">Barcode Labels</a></li>
-              <li><a href="Thermal-Printer.aspx">Thermal Printer</a></li>
-              <li><a href="Thermal-Paper-Roll.aspx">Thermal Paper Rolls</a></li>
-              <li><a href="Biometric-Punching-Machine.aspx">Biometric Punching Machine</a></li>
+              <li><a href="Store.aspx#BarcodePrinter">Barcode Printers</a></li>
+              <li><a href="Store.aspx#BarcodeScanner">Barcode Scanners</a></li>
+              <li><a href="Store.aspx#BarcodeLabel">Barcode Labels</a></li>
+              <li><a href="Store.aspx#ThermalPrinter">Thermal Printer</a></li>
+              <li><a href="Store.aspx#ThermalPaperRoll">Thermal Paper Rolls</a></li>
+              <li><a href="Store.aspx#BiometricPunchingMachine">Biometric Punching Machine</a></li>
               <li><a href="Face-Detection-Machine.aspx">Face Detection Machine</a></li>
-              <li><a href="Biometric-Access-Control.aspx">Biomatric Access Control</a></li>
-              <li><a href="ID-Card.aspx">RFID Card</a></li>
+              <li><a href="Store.aspx#BiometricAccessControl">Biomatric Access Control</a></li>
+              <li><a href="Store.aspx#RFIDCard">RFID Card</a></li>
               <%--<li><a href="">Students & Employees ID</a></li>--%> 
-              <li><a href="Billing-Machine.aspx">Billing Machine</a></li>
-              <li><a href="Boom-Barriar.aspx">Boom Barrier</a></li>
-              <li><a href="ID-Card-Printer.aspx">ID Card Printer</a></li>
+              <li><a href="Store.aspx#BillingMachine">Billing Machine</a></li>
+              <li><a href="Store.aspx#BoomBarriar">Boom Barrier</a></li>
+              <li><a href="Store.aspx#IDCardPrinter">ID Card Printer</a></li>
             </ul>
           </li>
-
+           <li><a href="Clients.aspx">Client</a></li>
         <li><a href="#team">Career</a></li>
         <li><a href="https://uniwareweb.blogspot.com/" target="_blank">Blog</a></li>
           <li><a href="#contact">Contact</a></li>
