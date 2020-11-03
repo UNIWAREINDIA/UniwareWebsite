@@ -117,7 +117,7 @@
           <div style="position:relative;text-align:center;color:White; width:100%;">
 
                 <img class="img img-fluid" src="img/WebDesigning_Banner.jpg" style="width:100%; margin-top:69px;" alt="Website Development Company In Kottayam" />
-                <div style="position:absolute; top:42%; left:15px;  ">
+                <div style="position:absolute; top:60%; left:15px;  ">
                     <h3 style="color:#d4d1ce; font-weight:500;">Website Development & SEO - KERALA </h3>
 
                </div>
@@ -154,8 +154,7 @@
               <div class="text-center">
                 <%--<button type="submit">Submit Enquiry</button>--%>
                 
-                    <asp:Button ID="CmdSubmit" runat="server" Text="Submit Enquiry" onclick="CmdSubmit_Click" 
-                      ></asp:Button>
+                    <asp:Button ID="CmdSubmit" runat="server" Text="Submit Enquiry" onclick="CmdSubmit_Click"></asp:Button>
                
               </div>
  </form>
@@ -163,8 +162,6 @@
               </div>
          </form>
         </div>          
-        </div>
-      </div>
     </section>
 
 
@@ -199,9 +196,9 @@
                 <img src="img/website/busniess.jpg" alt="Business Website Development" class="img-fluid">
               </div>
               <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px; color:#ff6000;">BUSINESS WEBSITES </h2>
-              <p>
+              <center><p>
                     Attractive and new generation website to promote and increase the volume of your business. Customized and responsive designing.
-              </p>
+              </p></center>
             </div>
           </div>
 
@@ -211,9 +208,9 @@
                 <img src="img/website/organization.jpg" alt="Website For Organisations" class="img-fluid">
               </div>
               <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px; color:#ff6000;">WEBSITE FOR ORGANISATIONS</h2>
-              <p>
+             <center> <p>
                    Best way to present your organizations functionalities and achievements. We build interactive and stunning website to fulfill your requirements.
-              </p>
+              </p></center>
             </div>
           </div>
 
@@ -223,9 +220,9 @@
                 <img src="img/website/portfolio.jpg" alt="Portfolio Website Development" class="img-fluid">
               </div>
               <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px; color:#ff6000;">PORTFOLIO WEBSITES </h2>
-              <p>
+              <center><p>
               Design portfolio websites are the prism through which you are constantly evaluated by new clients. Best way to promote yourself in online media.
-              </p>
+              </p></center>
             </div>
           </div>
 
@@ -235,9 +232,9 @@
                 <img src="img/website/cms.jpg" alt="Content Management Websites Development" class="img-fluid">
               </div>
               <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px;  color:#ff6000;">CMS WEBSITES </h2>
-              <p>
+             <center> <p>
                 A website which is backed up with a Content Management System software to manage the contents, pages and layouts of your website from anywhere.
-              </p>
+              </p></center>
             </div>
           </div>
 
@@ -251,9 +248,9 @@
                 <img src="img/website/ecommerce.jpg" alt="e Commerce website development in kottayam, kerala" class="img-fluid">
               </div>
               <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px; color:#ff6000;">e-COMMERCE WEBSITES</h2>
-              <p>
+              <center><p>
                 Best way to sell your products and services through interractive and customer friendly website. Manage your stock, sale & pricing with admin control panel.
-              </p>
+              </p></center>
             </div>
           </div>
 
@@ -263,9 +260,9 @@
                 <img src="img/website/seo.jpg" alt="Search Engine Optimisation In Kottayam" class="img-fluid">
               </div>
               <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px; color:#ff6000;">SEARCH ENGINE OPTIMIZATION</h2>
-              <p>
+              <center><p>
                 SEO generally means to promote your website in search results to increase the visitors and convert them to your products to acheve your goal.
-              </p>
+              </p></center>
             </div>
           </div>
 
@@ -275,9 +272,9 @@
                 <img src="img/website/promotion.jpg" alt="Online Advertisement In Google At Kottayam" class="img-fluid">
               </div>
               <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px; color:#ff6000;">ONLINE BUSINESS PROMOTION</h2>
-              <p>
+              <center><p>
                 Google Advertisement and keyword optimization to present your website in the top most position of search results, in a Cost Per Click model.
-              </p>
+              </p></center>
             </div>
           </div>
 
@@ -287,9 +284,9 @@
                 <img src="img/website/domain-registration.jpg" alt="How to register domain or website name" class="img-fluid">
               </div>
               <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px; color:#ff6000;">DOMAIN REGISTRATION</h2>
-              <p>
+              <center><p>
                 Register your favourite domain suitable for your websites. Best prices offered with free assistance. Manage all your domains in single platform.
-              </p>
+              </p></center>
             </div>
           </div>
 
@@ -385,18 +382,24 @@
         </header>
 
         <div class="owl-carousel clients-carousel" >
+          <img style="margin-right:10px;width:200px;" src="img/clients/Assumption_College.png"  alt="Assumption College Changanacherry"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Alphonsa_college.png" alt="Alphonsa College, Pala"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/BPC_College.png" alt="BPC College, Piravom, Ernakulam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Brilliant.png" alt="Brilliant Studey Centre, Pala"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Baselius_College.png" alt="Baselius College, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/KG_College_Pampady.png" alt="KG College, Pampady, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/MGU_Nursing_College.png" alt="Nursing College, MG University, Manimalakkunnu"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/MGU_DPS.png" alt="Pharmacy College, MG University, Puthuppally, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/SD_College_Kanjirappally.png" alt="SD College, Kanjirappally, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/StMarys_College_Manarcadu.png" alt="St.Marys College, Manarcardu, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/SN_College_Kumarakom.png" alt="SN College, Kumarakom, Kottayam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Sankara_College_Kalady.png" alt="Sree Sankara College, Kalady, Ernakulam"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/VNS_College_Konni.png" alt="VNS College of Arts And Science, Konni, Pathanamthitta"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Bhavapriya.jpg" alt="BavaPriya School of Music and Dance"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/Kochintaxi.png" alt="Cochin taxi Rental"/>
+          <img style="margin-right:10px;width:200px;" src="img/clients/LaggageToLagoon.png" alt="Laggae To Lagoon"/>
+           <img style="margin-right:10px;width:200px;" src="img/clients/Muncipality.png" alt="Kottayam-Muncipality"/>
 
-          <img style="margin-right:10px;" src="img/clients/Assumption_College.png" alt="Assumption College Changanacherry">
-          <img style="margin-right:10px;" src="img/clients/BPC_College.png" alt="BPC College, Piravom, Ernakulam">
-          <img style="margin-right:10px;" src="img/clients/MGU_Nursing_College.png" alt="Nursing College, MG University, Manimalakkunnu">
-          <img style="margin-right:10px;" src="img/clients/MGU_DPS.png" alt="Pharmacy College, MG University, Puthuppally, Kottayam">
-          <img style="margin-right:10px;" src="img/clients/Intimate-College.png" alt="Paramedical Institution Kottayam, Kerala">
-          <img style="margin-right:10px;" src="img/clients/cochintaxi.png" alt="Cochin Taxi Rental, Taxi & Traveller Service In Cochin">
-          <img style="margin-right:10px;" src="img/clients/taxikottayam.png" alt="Taxi Kottayam, Taxi & Tourist Bus Service In Kottayam">
-          <img style="margin-right:10px;" src="img/clients/l2l.png" alt="Luggage To Lagoon Holidays, Tour Operator In Kerala">
-          <img style="margin-right:10px;" src="img/clients/teanest.png" alt="Teanest Holidays, Vagamon, Homestay & Resorts in Vagamon, Kerala">
-          <img style="margin-right:10px;" src="img/clients/mk.png" alt="MK Towers, Apartments & Commercial Space Rental in Kottayam, Kerala">
-          <img style="margin-right:10px;" src="img/clients/bhavapriya.png" alt="Bhavapriya School, Music & Dance School In Kottayam, Kerala"/>
         </div>
 
       </div>

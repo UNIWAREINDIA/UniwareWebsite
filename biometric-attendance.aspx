@@ -314,9 +314,32 @@
     </section>                      
 
 
+    <section id="Products" class="wow fadeInUp">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>RELATED PRODUCTS</h3>
+        </header>
+
+        <div class="owl-carousel clients-carousel" >
+       <div style="margin-left:10px;">
+          <center><img  class="img img-responsive" src="img/Store/ESSL-BiometricPunching.jpg" alt="" style="width:200px;border: 2px solid gray;"/></center> 
+           <center><h3 style="margin-left: 34px; font-size: 14px;color: black;font-weight: 500; margin-top:45px;">ESSL</h3>
+          <a class="btn btn-danger" style="background-color: #b9d1dc; margin-left: 34px; border-color: #b9d1dc;color: #039ce0;" href="TVS-RP-3160-GOLD-Thermal-Printer.aspx">View Detailes</a></center>  
+          </div>   
+          <div style="margin-left:10px;">    
+          <center><img class="img img-responsive" src="img/Store/ZKTECHO-BiometricPunching.jpg" alt="" style="width:200px;border: 2px solid gray;"/></center>
+         <center><h3 style="margin-left: 34px; font-size: 15px;color: black;font-weight: 500;margin-top:45px;">ZKTECHO</h3>
+          <a class="btn btn-danger" style="background-color: #b9d1dc; margin-left: 34px; border-color: #b9d1dc;color: #039ce0;" href="EPSON-TMT-82-Thermal-Printer.aspx">View Detailes</a></center>  
+          </div>
+
+        </div>
+
+      </div>
+    </section> 
 
 
-    <section id="call-to-action" class="wow fadeIn">
+   <section id="call-to-action" class="wow fadeIn" style="margin-top:45px;">
       <div class="container text-center">
         <h3>FOR FREE DEMO <br /> &<br /> QUICK INSTALLATION<br />CALL </h3>
         <h1 style="color:white; font-weight:bolder">+91 9656 73 7009</h1>
