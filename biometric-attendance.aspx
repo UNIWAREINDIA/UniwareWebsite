@@ -186,8 +186,8 @@
       <div class="col-sm-1"></div>
        <div class="col-sm-10">
         <header class="section-header">
-          <h3>BILLING SOFTWARE WITH GST REPORTS</h3>
-          <p style="font-size:15px; text-align:justify; margin-bottom:5px;"> e-Mark Classic, a powerful and fully featured billing and accounting software from Uniware Technologies. The software package includes all major features like item management, category management, purchase and stock management, GST billing, sales & purchase return, debtors & creditors management, Debit note/Credit note management, Sales Reports & Registers, Barcoding, Stock Verification, Profit & Sales Trend analysis, GST Retrun, GST Reports, HSN Summary reports etc.  </p>
+          <h3>BIOMETRIC ATTENDANCE & SECURITY SYSTEMS</h3>
+          <p style="font-size:15px; text-align:justify; margin-bottom:5px;"> Biometric Systems are automated methods of verifying or recognizing the identity of a living person on the basis of some physiological characteristics, like a fingerprint or face pattern, or some aspects of behavior, like handwriting or keystroke patterns.  </p>
         </header>
         </div> 
         <div class="col-sm-1"></div>
@@ -206,43 +206,44 @@
         </header>-->
         <div class="row about-cols" style="margin-bottom:50px;">
 
-          <div class="col-md-3 wow fadeInUp">
+          <div class="col-md-4 wow fadeInUp">
             <div class="about-col" style="padding-bottom:30px;">
               <div class="img">
-                <img src="img/emark/supermarket.jpg" alt="Billing Software For Supermarkets" class="img-fluid">
+                <center><img src="img/BiometricAttendance/Accesscontrol.jpg" alt="" class="img-fluid"/></center>
               </div>
-              <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px;">SUPERMARKET BILLING SOFTWARE</h2>
+              <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px;">ACCESS CONTROLL SYSTEM</h2>
+             <center> <p>
+               Access control system for various applications in different sectors such as Education, Hospitality, Banks, Offices, Government premises and many more.The device is affordable and offers a seamless solution. 
+              </p></center>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="about-col" style="padding-bottom:30px;">
+              <div class="img">
+                <center><img src="img/BiometricAttendance/Attendance.jpg" alt="" class="img-fluid"/></center>
+              </div>
+              <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px;">ATTENDANCE SOFTWARE</h2>
               <p>
-                    GST Enabled billing & accounting software for supermarkets, hypermarkets & departmental stores. Barcode enabled billing terminal for ease of use.
+             We focus on deployment of biometric products for measurements of unique personal characteristics to verify a person’s identity in real time, with time-in and time-out features and rock-solid security.
               </p>
             </div>
           </div>
 
-          <div class="col-md-3 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
             <div class="about-col" style="padding-bottom:30px;">
               <div class="img">
-                <img src="img/emark/textile.jpg" alt="Billing Software For Textile Shops" class="img-fluid">
+                <center><img src="img/BiometricAttendance/Security.jpg" alt="" class="img-fluid"/></center>
               </div>
-              <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px;">BILLING SOFTWARE FOR TEXTILE SHOPS</h2>
-              <p>
-              Best billing software for Textile shops with integrated barcode printing system enables easy billing. The module integrated with accounting package.
-              </p>
+              <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px;">BIOMETRIC SECURITY SYSTEM</h2>
+             <center> <p>
+             We are engaged in presenting a superior quality range of Attendance Customer Service. We provide authentic and real-time customer service to the clients.
+             Clients can get the service customized as per the requirements.
+              </p></center>
             </div>
           </div>
 
-          <div class="col-md-3 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="about-col" style="padding-bottom:30px;">
-              <div class="img">
-                <img src="img/emark/footwear.jpg" alt="Billing Software For Bags & Footwear Shops" class="img-fluid">
-              </div>
-              <h2 class="title" style="font-weight:500; font-size:15px; margin-top:15px;">BILLING SOFTWARE FOR FOOTWEAR SHOPS</h2>
-              <p>
-              GST Billing made easy for all retail and wholesale shops with e-Mark inventory management system. Custom invoice format for unique billing experience.
-              </p>
-            </div>
-          </div>
-
-          <div class="col-md-3 wow fadeInUp" data-wow-delay="0.2s">
+          <%--<div class="col-md-3 wow fadeInUp" data-wow-delay="0.2s">
             <div class="about-col" style="padding-bottom:30px;">
               <div class="img">
                 <img src="img/emark/distributors.jpg" alt="Billing Software for Distributors & Dealers ( B2B )" class="img-fluid">
@@ -252,11 +253,11 @@
                 Advanced billing and accounting software for wholesale dealers and distributors with accurate reports. Barcode and RFID enabled for quick B2B billing.
               </p>
             </div>
-          </div>
+          </div>--%>
 
         </div>
 
-         <div class="row about-cols" style="margin-bottom:50px;">
+         <%--<div class="row about-cols" style="margin-bottom:50px;">
             
             <div class="col-md-3 wow fadeInUp" data-wow-delay="0.1s">
             <div class="about-col" style="padding-bottom:30px;">
@@ -306,7 +307,7 @@
             </div>
           </div>
 
-         </div>
+         </div>--%>
 
 
       </div>

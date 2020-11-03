@@ -195,21 +195,21 @@
           <div class="col-md-4 wow fadeInUp">
             <div class="about-col">
               <div class="img">
-                <img src="img/CollegeAutomation.jpg" alt="Collge Automation Software In Kerala" class="img-fluid">
+                <img src="img/CollegeAutomation.jpg" alt="Collge Automation Software In Kerala" class="img-fluid"/>
                 <div class="icon"><i class="ion-university"></i></div>
               </div>
               <h2 class="title">COLLEGE AUTOMATION SOFTWARE</h2>
               <p>
                 A fully featured package of Automation software for Colleges. The package includes all software modules required for the institution and succesfully implemented in many top graded colleges in Kerala.
               </p>
-                <center><a href="#featured-services" class="btn-get-started scrollto">Know More</a></center>
+                <center><a href="CollageAutomation-Software.aspx" class="btn-get-started scrollto">Know More</a></center>
             </div>
           </div>
 
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
             <div class="about-col">
               <div class="img">
-                <img src="img/BillingSoftware.jpg" alt="Billing Software In Kottayam, Kerala" class="img-fluid">
+                <img src="img/BillingSoftware.jpg" alt="Billing Software In Kottayam, Kerala" class="img-fluid"/>
                 <div class="icon"><i class="ion-ios-list-outline"></i></div>
               </div>
               <h2 class="title">BILLING SOFTWARE WITH ACCOUNTING</h2>
@@ -223,7 +223,7 @@
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
             <div class="about-col">
               <div class="img">
-                <img src="img/PunchingSoftware.jpg" alt="Biometric Attendance System & Punching Machine" class="img-fluid">
+                <img src="img/PunchingSoftware.jpg" alt="Biometric Attendance System & Punching Machine" class="img-fluid"/>
                 <div class="icon"><i class="ion-ios-eye-outline"></i></div>
               </div>
               <h2 class="title">BIOMETRIC ATTENDANCE & SECURITY SYSTEMS</h2>
@@ -248,7 +248,7 @@
               <p>
                  Best software package for different types of Hospitals & other health care organisations. The package including Administration module, OP/IP management, Accounts, Pharmacy & Laboratory Management system etc.
               </p>
-                <center><a href="#featured-services" class="btn-get-started scrollto">Know More</a></center>
+                <center><a href="HospitalManagementSoftware.aspx" class="btn-get-started scrollto">Know More</a></center>
             </div>
           </div>
 
@@ -262,14 +262,14 @@
               <p>
                 A mobile friendly online application for Taxi & Tour operators. The software featuring customer registration, taxi reservation, SMS notifications, collection management, vehicle & driver assignment, profit analysis etc.
               </p>
-                <center><a href="#featured-services" class="btn-get-started scrollto">Know More</a></center>
+                <center><a href="TravelDeskSoftware.aspx" class="btn-get-started scrollto">Know More</a></center>
             </div>
           </div>
 
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
             <div class="about-col">
               <div class="img">
-                <img src="img/Gymnesium.jpg" alt="Gymnesium Software For Membership Management & Collection" class="img-fluid">
+                <img src="img/Gymnesium.jpg" alt="Gymnesium Software For Membership Management & Collection" class="img-fluid"/>
                 <div class="icon"><i class="ion-ios-person"></i></div>
               </div>
               <h2 class="title">GYMNESIUM MANAGEMENT SYSTEM</h2>
