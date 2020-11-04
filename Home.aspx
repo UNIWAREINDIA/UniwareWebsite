@@ -283,6 +283,25 @@
         </div>
 
 
+        <div class="row about-cols">
+
+          <div class="col-md-4 wow fadeInUp">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/OnlineShopping.jpg" alt="Hospital Management Software In Kerala" class="img-fluid"/>
+                <div class="icon"><i class="ion-ios-cart"></i></div>
+              </div>
+              <h2 class="title">ONLINE SHOPPING CART</h2>
+             <center> <p>
+                 Best online shopping cart. The package including Customer login, Offer Smart Search Option, One Click to Add to Cart, Security etc.
+              </p></center>
+                <center><a href="Online-Shopping-Cart.aspx" class="btn-get-started scrollto">Know More</a></center>
+            </div>
+          </div>
+
+        </div>
+
+
       </div>
     </section>
 
